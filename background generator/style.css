@@ -30,6 +30,9 @@ h3 {
     justify-content: space-around;
 }
 
+img:hover {
+    transform: scale(1.1)}
+
 img {
     width: 200px;
 }
